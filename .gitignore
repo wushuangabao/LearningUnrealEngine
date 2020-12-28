@@ -1,0 +1,11 @@
+debug/
+*.obj
+*.pdb
+*.exe
+*.tlog
+*.ipch
+*.db
+.vs/ConsoleApplication1/v16/.suo
+*.db-shm
+*.opendb
+*.db-wal
